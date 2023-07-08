@@ -1,4 +1,4 @@
-package com.atguigu.cms.utils;
+package com.github.cms.utils;
 
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 

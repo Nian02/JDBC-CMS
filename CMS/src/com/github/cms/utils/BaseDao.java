@@ -1,4 +1,4 @@
-package com.atguigu.cms.utils;
+package com.github.cms.utils;
 
 import java.lang.reflect.Field;
 import java.sql.*;

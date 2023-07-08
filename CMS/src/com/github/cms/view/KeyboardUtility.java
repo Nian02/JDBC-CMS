@@ -1,4 +1,4 @@
-package com.atguigu.cms.view;
+package com.github.cms.view;
 
 import java.util.Scanner;
 

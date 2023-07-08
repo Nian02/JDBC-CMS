@@ -1,7 +1,7 @@
-package com.atguigu.cms.dao;
+package com.github.cms.dao;
 
-import com.atguigu.cms.javabean.Customer;
-import com.atguigu.cms.utils.BaseDao;
+import com.github.cms.javabean.Customer;
+import com.github.cms.utils.BaseDao;
 
 import java.sql.SQLException;
 import java.util.ArrayList;

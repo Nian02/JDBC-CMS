@@ -1,6 +1,6 @@
-package com.atguigu.cms.main;
+package com.github.cms.main;
 
-import com.atguigu.cms.view.CustomerView;
+import com.github.cms.view.CustomerView;
 
 public class CustomerManage {
 

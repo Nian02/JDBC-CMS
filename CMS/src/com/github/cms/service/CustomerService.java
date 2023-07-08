@@ -1,10 +1,9 @@
-package com.atguigu.cms.service;
+package com.github.cms.service;
 
-import com.atguigu.cms.dao.CustomerDao;
-import com.atguigu.cms.javabean.Customer;
+import com.github.cms.dao.CustomerDao;
+import com.github.cms.javabean.Customer;
 
 import java.sql.SQLException;
-import java.util.ArrayList;
 import java.util.List;
 
 public class CustomerService {

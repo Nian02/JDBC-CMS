@@ -1,7 +1,7 @@
-package com.atguigu.cms.view;
+package com.github.cms.view;
 
-import com.atguigu.cms.javabean.Customer;
-import com.atguigu.cms.service.CustomerService;
+import com.github.cms.javabean.Customer;
+import com.github.cms.service.CustomerService;
 
 import java.util.List;
 
